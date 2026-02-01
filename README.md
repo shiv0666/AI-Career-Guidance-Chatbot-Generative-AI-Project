@@ -57,7 +57,9 @@ LLaMA Models
 ▶️ How to Run
 
 pip install -r requirements.txt
+
 export GROQ_API_KEY=your_api_key_here
+
 python app.py
 
 
@@ -80,3 +82,4 @@ Skill gap analysis
 Persistent chat history
 
 Better UI/UX
+
