@@ -16,7 +16,7 @@ Practice clean code structure and deployment readiness
 
 🧠 What I Learned
 
-Through this mini project, I learned:
+Through this mini project, I learned :
 
 How to integrate pre-trained LLMs using APIs
 
